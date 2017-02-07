@@ -1,5 +1,4 @@
-/*? Hacer un programa que calcule la multiplicación de dos enteros sin signo usando solo
-sumas.
+/*Sebastian Zapata Ruiz - Arquitectura de computadores - Grupo 1
 */
 #include<iostream>
 #include <vector>
