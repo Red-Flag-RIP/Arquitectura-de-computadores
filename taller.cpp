@@ -18,7 +18,7 @@ int potency(int n,int m)
     int r=1;
     for(int i=0;i<m;i++)
     {
-           r=r*multiplication(n,1);
+           r=multiplication(r,m);
     }
     return r;
 } 
